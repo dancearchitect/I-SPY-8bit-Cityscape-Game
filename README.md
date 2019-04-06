@@ -1,7 +1,7 @@
 # Project 1: The Game
 
 ## I SPY CITYSCAPE<br />
-https://dancearchitect.github.io/Project_1/<br />
+https://dancearchitect.github.io/I-SPY-8bit-Cityscape-Game/<br />
 
 ![Cityscape Image](https://user-images.githubusercontent.com/47368206/55674079-ae4dc780-587d-11e9-80c6-63bd1f709331.png)
 
