@@ -1,0 +1,18 @@
+- I Spy (3 mins, 20 items)
+	-Cityscape (8bit)
+	"A retro take on a classic brain game, find all the items specified in the alotted time and enjoy a beautiful 8bit scene upon completion."
+
+	NYC: https://wireframe.cc/wCXroa
+
+
+	-WIN: Once all items are cleared the cloudy city opens up to clears skys and a creamsicle sunset, possibly with 8bit music, and animations of twinkling city lights.
+
+	-LOSE: If time runs out an animation of the city spiraling into a dark abyss that reads "GAME OVER" will play, then display "Try Again?" to replay game.
+
+	I will being using event listeners to make items clickable and initiate the WIN or LOSE functions once cleared or time runs out.
+	I'm hoping to incorporate 8bit music for the gameplay, WIN and LOSE outcomes.
+	The 8bit WIN animation and LOSE animation will be executed by CSS animation and for loops along with if/if else/else statements.
+
+	Building the cityscapes will require using a .jpg image as the cityscape and .jpg icons ontop of the image that will respond to mouse clicks through floating invisible divs.
+	I expect to face challenges with implementing the floats and event listeners.
+	My plan to execute this will be through Google sources, applying the Duck Hunt hw and working with dev friends.
