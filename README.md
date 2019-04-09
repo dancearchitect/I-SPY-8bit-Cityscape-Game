@@ -27,7 +27,7 @@ Complete the cityscape by clearing each item to win the game!
 ### Wireframe:
 https://wireframe.cc/wCXroa
 
-![wireframe](https://media.git.generalassemb.ly/user/19638/files/6f4ef900-54ae-11e9-8097-3896aee0a228)
+![wireframe](https://user-images.githubusercontent.com/47368206/55771192-00951100-5a55-11e9-8b56-5c249b3d43d4.png)
 
 ### Sources:
 https://make8bitart.com/
